@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shikha Tomar</h1> <h3 align="center">AI/ML Enthusiast 🚀</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=ShikhTomar&label=Profile%20views&color=blue&style=flat" alt="profile views" /> </p> <p align="center"> <a href="mailto:shikhatomar8420@gmail.com"> <img src="https://img.shields.io/badge/EMAIL-red?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/shikha-tomar-a70a6b32b/"> <img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://leetcode.com/u/Shikhz__08/"> <img src="https://img.shields.io/badge/LEETCODE-orange?style=for-the-badge&logo=leetcode&logoColor=white" /> </a> </p>
 🧑‍💻 About Me
-🎓 B.Tech CSE (AI/ML), KIET Group of Institutions, Ghaziabad
-🧠 ML Domain Lead in my college's technical club
-🌱 Building projects across ML, NLP, and full-stack prototyping
-📊 Recent work: Heart Disease Prediction (EDA → model → Streamlit deployment)
-🧩 Practicing DSA regularly to sharpen problem-solving
-✨ Fun fact: I enjoy turning messy datasets into clean, deployable ML apps!
+🌱 I'm currently learning Machine Learning & Full Stack Development (MERN Stack)
+💻 I'm confident with Python, C++, JavaScript, HTML, CSS
+🧩 Exploring Scikit-learn, Streamlit, and building deployable ML projects
+🌐 Diving deeper into React.js, Node.js & MongoDB
+🧠 Practicing DSA regularly on platforms like LeetCode
+✨ Fun Fact: I love clean UI and debugging gives me joy!
 🛠️ Languages & Tools
 <p align="left"> <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,nodejs,flask,git,vscode,mongodb,tensorflow" /> </p>
 📊 GitHub Stats
