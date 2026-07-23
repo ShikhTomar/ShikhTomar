@@ -9,4 +9,4 @@
 🛠️ Languages & Tools
 <p align="left"> <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,nodejs,flask,git,vscode,mongodb,tensorflow" /> </p>
 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ShikhTomar&show_icons=true&theme=radical" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShikhTomar&layout=compact&theme=radical" width="48%" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShikhTomar&theme=radical" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ShikhTomar&show_icons=true&theme=radical&cache_seconds=1800" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShikhTomar&layout=compact&theme=radical&cache_seconds=1800" width="48%" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShikhTomar&theme=radical" /> </p>
