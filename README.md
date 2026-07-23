@@ -1,16 +1,12 @@
-## Hi there 👋
-
-<!--
-**ShikhTomar/ShikhTomar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">Hi 👋, I'm Shikha Tomar</h1> <h3 align="center">AI/ML Enthusiast 🚀</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=https://github.com/ShikhTomar&label=Profile%20views&color=blue&style=flat" alt="profile views" /> </p> <p align="center"> <a href="mailto:shikhatomar8420@gmail.com"> <img src="https://img.shields.io/badge/EMAIL-red?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/shikha-tomar-a70a6b32b/"> <img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://leetcode.com/u/Shikhz__08/"> <img src="https://img.shields.io/badge/LEETCODE-orange?style=for-the-badge&logo=leetcode&logoColor=white" /> </a>  </a> </p>
+🧑‍💻 About Me
+🎓 B.Tech CSE (AI/ML), KIET Group of Institutions, Ghaziabad
+🧠 ML Domain Lead in my college's technical club
+🌱 Building projects across ML, NLP, and full-stack prototyping
+📊 Recent work: Heart Disease Prediction (EDA → model → Streamlit deployment)
+🧩 Practicing DSA regularly to sharpen problem-solving
+✨ Fun fact: I enjoy turning messy datasets into clean, deployable ML apps!
+🛠️ Languages & Tools
+<p align="left"> <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,nodejs,flask,git,vscode,mongodb,tensorflow" /> </p>
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ShikhTomar&show_icons=true&theme=radical" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShikhTomar&layout=compact&theme=radical" width="48%" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" /> </p>
